@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.jdbc.SpringbootJdbcCrudApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.553 s - in com.jdbc.SpringbootJdbcCrudApplicationTests
