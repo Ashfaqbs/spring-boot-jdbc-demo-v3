@@ -1,4 +1,4 @@
-# spring-boot-jdbc-demo
+# spring-boot-jdbc-demo-v3
 Spring Boot JDBC CRUD - A complete demonstration of CRUD operations  demonstrated on car table (c_id, c_name, cost are the columns ) using Spring Boot and JDBC for database access and management.
 
 # JDBC Template Class
